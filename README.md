@@ -7,7 +7,8 @@
 
 ## Projects In This Repository
 
-* Please come back later for more projects
+* Hangman
+* More coming soon!
 
 ## Installation
 
