@@ -8,6 +8,7 @@
 ## Projects In This Repository
 
 * Hangman
+* Rock Paper Scissors
 * More coming soon!
 
 ## Installation
