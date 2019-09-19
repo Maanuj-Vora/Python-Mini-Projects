@@ -12,6 +12,7 @@
 * Dice Rolling Simulator
 * Keylogger
 * Port Scanner
+* Web Scraper
 * More coming soon!
 
 ## Installation
