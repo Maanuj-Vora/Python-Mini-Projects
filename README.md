@@ -9,6 +9,9 @@
 
 * Hangman
 * Rock Paper Scissors
+* Dice Rolling Simulator
+* Keylogger
+* Port Scanner
 * More coming soon!
 
 ## Installation
